@@ -1,7 +1,7 @@
 % Zadani c. 10:u10
 % Napiste program resici ukol dany predikatem u10(VIN,LOUT), kde VIN je vstupni 
 % promenna obsahujici prirozene cislo mensi nez 20 urcujici pozadovany pocet prvku  
-% vystupniho seznamu LOUT, ktery vraci cisla u10onacciho posloupnosti. 
+% vystupniho seznamu LOUT, ktery vraci cisla Fibonacciho posloupnosti. 
 
 % Testovaci predikaty:                          % LOUT
 u10_1:- u10(7,LOUT),write(LOUT).               	% [0,1,1,2,3,5,8]
