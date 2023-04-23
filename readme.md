@@ -8,3 +8,6 @@
 
 ### 3 TD Learning
  - ?/5
+
+### 4 ID3 Algo
+ - ?/5

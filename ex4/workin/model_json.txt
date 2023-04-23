@@ -1,0 +1,27 @@
+{
+   "attributes":{
+      "velikost":[         "maly",         "stredni",         "velky"      ],
+      "srst":[         "kratka",         "dlouha",         "bez"      ],
+      "barva":[         "cerny",         "bily",         "hnedy"      ],
+      "spolecensky":[         "ano",         "ne"      ]
+   },
+   "classes":[      "V",      "N",      "Q"   ],
+   "objects":
+   [      
+      [         "1",         "N",         "maly",         "dlouha",         "bily",         "ano"      ],
+      [         "2",         "Q",         "stredni",         "kratka",         "hnedy",         "ne"      ],
+      [         "3",         "Q",         "velky",         "kratka",         "bily",         "ne"      ],
+      [         "4",         "N",         "maly",         "bez",         "hnedy",         "ne"      ],
+      [         "5",         "Q",         "velky",         "kratka",         "hnedy",         "ne"      ],
+      [         "6",         "V",         "stredni",         "dlouha",         "cerny",         "ne"      ],
+      [         "7",         "Q",         "stredni",         "kratka",         "hnedy",         "ano"      ],
+      [         "8",         "N",         "stredni",         "dlouha",         "hnedy",         "ne"      ],
+      [         "9",         "N",         "maly",         "kratka",         "hnedy",         "ne"      ],
+      [         "10",         "N",         "maly",         "dlouha",         "hnedy",         "ano"      ],
+      [         "11",         "Q",         "stredni",         "bez",         "bily",         "ano"      ],
+      [         "12",         "N",         "stredni",         "dlouha",         "bily",         "ne"      ],
+      [         "13",         "Q",         "maly",         "bez",         "bily",         "ne"      ],
+      [         "14",         "Q",         "velky",         "dlouha",         "bily",         "ano"      ],
+      [         "15",         "V",         "stredni",         "bez",         "cerny",         "ano"      ]
+   ]
+}
